@@ -3,7 +3,7 @@ package main
 import (
         "fmt"
 	
-	"github.com/leafmulch/stringutil"
+        "github.com/leafmulch/stringutil"
 )
 
 func main() {
